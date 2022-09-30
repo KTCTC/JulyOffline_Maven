@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="55" started-at="2022-09-28T09:02:11 IST" finished-at="2022-09-28T09:02:11 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="55" started-at="2022-09-28T09:02:11 IST" finished-at="2022-09-28T09:02:11 IST">
+      <class name="annotations.AnnotationsClass">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:annotations.AnnotationsClass@48503868]" name="beforeSuite" is-config="true" duration-ms="14" started-at="2022-09-28T09:02:11 IST" finished-at="2022-09-28T09:02:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:annotations.AnnotationsClass@48503868]" name="beforeTest" is-config="true" duration-ms="0" started-at="2022-09-28T09:02:11 IST" finished-at="2022-09-28T09:02:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:annotations.AnnotationsClass@48503868]" name="beforeClass" is-config="true" duration-ms="1" started-at="2022-09-28T09:02:11 IST" finished-at="2022-09-28T09:02:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:annotations.AnnotationsClass@48503868]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2022-09-28T09:02:11 IST" finished-at="2022-09-28T09:02:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verifyUserCanLoginWithValidCredentials()[pri:0, instance:annotations.AnnotationsClass@48503868]" name="verifyUserCanLoginWithValidCredentials" duration-ms="4" started-at="2022-09-28T09:02:11 IST" finished-at="2022-09-28T09:02:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserCanLoginWithValidCredentials -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:annotations.AnnotationsClass@48503868]" name="afterMethod" is-config="true" duration-ms="0" started-at="2022-09-28T09:02:11 IST" finished-at="2022-09-28T09:02:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="verifyUserCanNotLoginWithInvalidUserNameAndValidPassword()[pri:0, instance:annotations.AnnotationsClass@48503868]" name="verifyUserCanNotLoginWithInvalidUserNameAndValidPassword" duration-ms="2" started-at="2022-09-28T09:02:11 IST" finished-at="2022-09-28T09:02:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserCanNotLoginWithInvalidUserNameAndValidPassword -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:annotations.AnnotationsClass@48503868]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2022-09-28T09:02:11 IST" finished-at="2022-09-28T09:02:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:annotations.AnnotationsClass@48503868]" name="afterMethod" is-config="true" duration-ms="1" started-at="2022-09-28T09:02:11 IST" finished-at="2022-09-28T09:02:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:annotations.AnnotationsClass@48503868]" name="afterClass" is-config="true" duration-ms="0" started-at="2022-09-28T09:02:11 IST" finished-at="2022-09-28T09:02:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:annotations.AnnotationsClass@48503868]" name="afterTest" is-config="true" duration-ms="0" started-at="2022-09-28T09:02:11 IST" finished-at="2022-09-28T09:02:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:annotations.AnnotationsClass@48503868]" name="afterSuite" is-config="true" duration-ms="1" started-at="2022-09-28T09:02:11 IST" finished-at="2022-09-28T09:02:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- annotations.AnnotationsClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
